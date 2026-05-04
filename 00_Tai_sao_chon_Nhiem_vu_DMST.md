@@ -1,4 +1,4 @@
-# TẠI SAO CHỌN NHIỆM VỤ ĐỔI MỚI SÁNG TẠO?
+# TẠI SAO THAM GIA TEAM NHIỆM VỤ ĐMST?
 
 > **7 lợi ích vượt trội + Cơ sở pháp lý đầy đủ**
 
@@ -6,14 +6,16 @@
 
 ## 🎯 TÓM TẮT 30 GIÂY
 
-Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
-- ✅ Không cần bằng tiến sĩ
-- ✅ Nghiệm thu bằng sản phẩm (không cần bài báo)
-- 💰 Lương 1.020 triệu/năm + Miễn thuế 5 năm + Chia lợi nhuận 30%
-- 📝 Khoán chi đến sản phẩm (giảm 70% thủ tục)
-- 🏆 Tự động giao quyền sở hữu trí tuệ
+Nhiệm vụ ĐMST (NĐ 268/2025) là framework tốt nhất cho người làm AI thực chiến:
+- ✅ **Không cần bằng tiến sĩ** — Trọng kinh nghiệm thực tế
+- ✅ **Nghiệm thu bằng sản phẩm** — Không cần viết bài báo
+- 💰 **Lương cạnh tranh** — 1.020 triệu/năm (85tr/tháng + thưởng 5 tháng)
+- 💰 **Miễn thuế 5 năm** — Tiết kiệm ~10% thuế TNCN
+- 💰 **Chia lợi nhuận 30%** — Skin in the game khi thương mại hóa
+- 📝 **Khoán chi đến sản phẩm** — Giảm 70% thủ tục hành chính
+- 🏆 **Tự động giao quyền sở hữu trí tuệ** — Bệ phóng cho Spin-off
 
-**→ Phù hợp 100% với profile:** Thạc sĩ Medical Science + 5 năm CDC + nhân viên Turing (Google AI)
+**→ Phù hợp với:** Người có kinh nghiệm thực chiến (Google, Microsoft, startup AI), muốn xây dựng sản phẩm thực tế, không thích viết bài báo hàn lâm
 
 ---
 
@@ -43,9 +45,9 @@ Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
 > "Căn cứ Điểm a Khoản 2 Điều 47 Nghị định 262/2025/NĐ-CP, kết quả đầu ra của Nhiệm vụ ĐMST được đánh giá nghiệm thu dựa trên số lượng, chất lượng và mức độ hoàn thiện của **sản phẩm thực tế (công nghệ, giải pháp, hệ thống Remote MCP Servers)**, hoàn toàn không áp dụng tiêu chí nghiệm thu bằng bài báo khoa học hàn lâm."
 
 **Tại sao quan trọng:**
-- Không phải viết bài báo ISI/Scopus
-- Tập trung 100% vào xây dựng sản phẩm thực tế
-- Phù hợp với người có kinh nghiệm thực chiến (Google AI, Turing)
+- Không phải viết bài báo ISI/Scopus (tiết kiệm 6-12 tháng)
+- Tập trung 100% vào xây dựng sản phẩm thực tế có người dùng
+- Phù hợp với người có kinh nghiệm thực chiến (Google, Microsoft, startup)
 
 ---
 
@@ -59,9 +61,9 @@ Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
 > "Căn cứ Khoản 5 Điều 5 Nghị định 231/2025/NĐ-CP, cấp có thẩm quyền được quyền quyết định tuyển chọn chuyên gia thực chiến làm Kiến trúc sư trưởng dự án dù ứng viên không đáp ứng đủ các tiêu chí cứng về bằng cấp. Với kinh nghiệm tại Google AI/Turing, nhân sự dự kiến **có khả năng đáp ứng ngay yêu cầu, nhiệm vụ chuyên môn** kiến tạo kiến trúc hệ thống MCP cho tỉnh."
 
 **Tại sao quan trọng:**
-- Vượt rào cản bằng cấp (chỉ cần Thạc sĩ Medical Science)
-- Trọng kinh nghiệm thực chiến hơn bằng cấp hàn lâm
-- Phù hợp với profile: 5 năm CDC + nhân viên Turing (Google AI)
+- Vượt rào cản bằng cấp (chỉ cần Thạc sĩ + kinh nghiệm thực chiến)
+- Trọng kinh nghiệm thực tế hơn bằng cấp hàn lâm
+- Phù hợp với người từ Big Tech, startup AI, hoặc có portfolio mạnh
 
 ---
 
@@ -77,9 +79,9 @@ Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
 > "Dự toán thù lao cho vị trí Kiến trúc sư trưởng Dự án được xây dựng dựa trên Khoản 1, Khoản 2 Điều 28 Nghị định 231/2025/NĐ-CP, bao gồm mức lương thỏa thuận theo mặt bằng thị trường chuyên gia công nghệ cao và khoản **thưởng tối đa 05 tháng lương nếu hoàn thành xuất sắc nhiệm vụ**, bảo đảm thu hút nhân tài thực chiến về chuyển đổi số."
 
 **Tại sao quan trọng:**
-- Lương cạnh tranh với thị trường (85 triệu/tháng)
+- Lương cạnh tranh với thị trường Big Tech (85 triệu/tháng)
 - Thưởng 5 tháng nếu hoàn thành xuất sắc (425 triệu)
-- Tổng: 1.020 triệu/năm (17 tháng lương)
+- Tổng: 1.020 triệu/năm (17 tháng lương) — Cao hơn 40% so sánh Nhiệm vụ KHCN (720 triệu)
 
 ---
 
@@ -95,7 +97,7 @@ Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
 **Tại sao quan trọng:**
 - Tiết kiệm ~10% thuế TNCN (102 triệu/năm)
 - Lương thực nhận = lương ghi trong hợp đồng
-- Áp dụng cho cả team (không chỉ KTS trưởng)
+- Áp dụng cho cả team (không chỉ KTS trưởng) — Tất cả thành viên core team đều được hưởng
 
 ---
 
@@ -109,9 +111,9 @@ Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
 > "Căn cứ Điểm a Khoản 3 Điều 28 Luật Khoa học, Công nghệ và Đổi mới sáng tạo 2025, khi Hệ thống MCP Servers và các giáo trình thực chiến được thương mại hóa hoặc dùng để góp vốn lập doanh nghiệp khởi nghiệp sáng tạo (Spin-off), tổ chức chủ trì cam kết trích **tối thiểu 30% lợi nhuận hoặc giá trị góp vốn để thưởng trực tiếp cho tác giả/đồng tác giả** tạo ra kết quả."
 
 **Tại sao quan trọng:**
-- Skin in the game: Được hưởng lợi nhuận dài hạn
-- Động lực xây dựng sản phẩm chất lượng cao
-- Bệ phóng cho Spin-off (lập công ty riêng)
+- Skin in the game: Được hưởng lợi nhuận dài hạn (không chỉ lương 18 tháng)
+- Động lực xây dựng sản phẩm chất lượng cao (vì lợi ích của chính mình)
+- Bệ phóng cho Spin-off: Lập công ty riêng, team trở thành co-founder
 
 ---
 
@@ -127,9 +129,9 @@ Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
 > "Căn cứ Điểm a Khoản 5 Điều 63 Luật Khoa học, Công nghệ và Đổi mới sáng tạo 2025 và Khoản 5 Điều 10 Nghị định 265/2025/NĐ-CP, nhiệm vụ ĐMST này đề xuất áp dụng phương thức **khoán chi đến sản phẩm cuối cùng**. Tổ chức chủ trì được tự quyết định điều chỉnh các khoản chi và **quyết toán tổng số kinh phí căn cứ vào kết quả đánh giá sản phẩm cuối cùng**, không phải quyết toán chi tiết theo từng hóa đơn, chứng từ nhỏ lẻ."
 
 **Tại sao quan trọng:**
-- Giảm 70% thủ tục hành chính
-- Không phải lưu hóa đơn, chứng từ nhỏ lẻ
-- Linh hoạt điều chỉnh chi phí theo tiến độ
+- Giảm 70% thủ tục hành chính (không phải lưu hóa đơn nhỏ lẻ)
+- Linh hoạt điều chỉnh chi phí theo tiến độ (không bị ràng buộc dự toán cứng)
+- Team tập trung vào làm sản phẩm, không phải làm giấy tờ
 
 ---
 
@@ -146,8 +148,8 @@ Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
 
 **Tại sao quan trọng:**
 - Sở KHCN sở hữu 100% IP (không phải trả lại Nhà nước)
-- Bệ phóng cho Spin-off: Lập công ty, góp vốn bằng IP
-- Chia lợi nhuận 30% cho tác giả (điểm 5)
+- Bệ phóng cho Spin-off: Team lập công ty, góp vốn bằng IP
+- Chia lợi nhuận 30% cho tác giả (điểm 5) — Team trở thành shareholders
 
 ---
 
@@ -164,16 +166,16 @@ Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
 
 ### Kết luận
 
-**Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:**
-1. ✅ Không cần bằng tiến sĩ
-2. ✅ Nghiệm thu bằng sản phẩm thực tế (không cần bài báo)
-3. ✅ Lương cạnh tranh (1.020 triệu/năm)
-4. ✅ Miễn thuế 5 năm
-5. ✅ Chia lợi nhuận 30% khi thương mại hóa
-6. ✅ Khoán chi đến sản phẩm (giảm 70% thủ tục)
-7. ✅ Tự động giao quyền sở hữu trí tuệ
+**Nhiệm vụ ĐMST (NĐ 268/2025) là framework tốt nhất cho người làm AI thực chiến:**
+1. ✅ Không cần bằng tiến sĩ — Trọng kinh nghiệm thực tế
+2. ✅ Nghiệm thu bằng sản phẩm thực tế — Không cần bài báo
+3. ✅ Lương cạnh tranh — 1.020 triệu/năm (cao hơn 40% so với Nhiệm vụ KHCN)
+4. ✅ Miễn thuế 5 năm — Tiết kiệm ~10% thuế TNCN
+5. ✅ Chia lợi nhuận 30% — Skin in the game, team trở thành shareholders
+6. ✅ Khoán chi đến sản phẩm — Giảm 70% thủ tục, tập trung làm sản phẩm
+7. ✅ Tự động giao quyền sở hữu trí tuệ — Bệ phóng cho Spin-off
 
-**→ Phù hợp 100% với profile:** Thạc sĩ Medical Science + 5 năm CDC + nhân viên Turing (Google AI)
+**→ Phù hợp với:** Người có kinh nghiệm thực chiến (Google, Microsoft, startup AI), muốn xây dựng sản phẩm thực tế, không thích viết bài báo hàn lâm, muốn có cơ hội trở thành co-founder/shareholder sau này.
 
 ---
 
