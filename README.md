@@ -12,20 +12,7 @@
 
 ## 📋 CẤU TRÚC HỒ SƠ (Theo NĐ 268/2025)
 
-### 📖 [00_OVERVIEW/](00_OVERVIEW/) — Tổng quan
-
-**[README.md](00_OVERVIEW/README.md)** — Giới thiệu module
-
-**[00_Tai_sao_chon_Nhiem_vu_DMST.md](00_OVERVIEW/00_Tai_sao_chon_Nhiem_vu_DMST.md)** — Thuyết phục team
-- So sánh Học thuật vs. Thực chiến
-- 7 đặc quyền pháp lý (thu nhập, miễn thuế, nghiệm thu, khoán chi, rào cản, IP, Spin-off)
-- Target: Tiến sĩ AI trẻ, postdoc, giảng viên
-
-**[00b_Conflict_of_Interest.md](00_OVERVIEW/00b_Conflict_of_Interest.md)** — Xung đột lợi ích
-- Tại sao Phòng ĐMST/Sở KHCN KHÔNG được làm Tổ chức chủ trì
-- Giải pháp: Trung tâm CNTT/Trung tâm ĐMST làm Tổ chức chủ trì
-
----
+> **⚠️ CHÚ Ý:** Hồ sơ chính thức chỉ bao gồm 6 modules dưới đây. Tài liệu tham khảo (Tại sao chọn ĐMST, Conflict of Interest) nằm ở repo riêng `Nhiem_vu_DMST_AI_Vinh_Long_INTERNAL/` — **TUYỆT ĐỐI KHÔNG NỘP**
 
 ### 📄 [01_DON_DANG_KY/](01_DON_DANG_KY/)
 
@@ -112,10 +99,22 @@
 
 ## 📊 THỐNG KÊ
 
-**Modules:** 7 (1 tổng quan + 6 hồ sơ chính thức)  
-**Files:** 13 (3 tổng quan + 11 hồ sơ chính thức - 1 README module)  
-**Tổng sections:** 37 sections (chỉ tính hồ sơ chính thức)  
+**Modules:** 6 (theo NĐ 268/2025)  
+**Files:** 11  
+**Tổng sections:** 37 sections  
 **Trạng thái:** 3% (1/37 sections có nội dung)
+
+---
+
+## ⚠️ TÀI LIỆU NỘI BỘ (KHÔNG NỘP)
+
+**Vị trí:** `../Nhiem_vu_DMST_AI_Vinh_Long_INTERNAL/00_OVERVIEW/`
+
+**Nội dung:**
+- `00_Tai_sao_chon_Nhiem_vu_DMST.md` — Thuyết phục team (Tiến sĩ AI trẻ)
+- `00b_Conflict_of_Interest.md` — Xung đột lợi ích, vai trò Trung tâm ĐMST
+
+**⚠️ NGUY HIỂM:** Tài liệu này chứa chiến lược nội bộ (lách bằng cấp, tối ưu thu nhập, Spin-off). Nếu nộp cho Hội đồng → Bị đánh giá "trục lợi ngân sách" → Trượt ngay lập tức.
 
 ---
 
