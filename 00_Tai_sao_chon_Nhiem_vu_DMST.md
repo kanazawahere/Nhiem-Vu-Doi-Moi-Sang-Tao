@@ -1,6 +1,19 @@
-# 7 ĐIỂM "NGON ĂN" CỦA NHIỆM VỤ ĐMST & CƠ SỞ PHÁP LÝ
+# TẠI SAO CHỌN NHIỆM VỤ ĐỔI MỚI SÁNG TẠO?
 
-> **Tóm tắt:** Tại sao Nhiệm vụ Đổi mới sáng tạo (NĐ 268/2025) là framework tốt nhất cho dự án AI Vĩnh Long
+> **7 lợi ích vượt trội + Cơ sở pháp lý đầy đủ**
+
+---
+
+## 🎯 TÓM TẮT 30 GIÂY
+
+Nhiệm vụ ĐMST (NĐ 268/2025) là framework duy nhất:
+- ✅ Không cần bằng tiến sĩ
+- ✅ Nghiệm thu bằng sản phẩm (không cần bài báo)
+- 💰 Lương 1.020 triệu/năm + Miễn thuế 5 năm + Chia lợi nhuận 30%
+- 📝 Khoán chi đến sản phẩm (giảm 70% thủ tục)
+- 🏆 Tự động giao quyền sở hữu trí tuệ
+
+**→ Phù hợp 100% với profile:** Thạc sĩ Medical Science + 5 năm CDC + nhân viên Turing (Google AI)
 
 ---
 
