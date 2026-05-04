@@ -12,6 +12,21 @@
 
 ## 📋 CẤU TRÚC HỒ SƠ (Theo NĐ 268/2025)
 
+### 📖 [00_OVERVIEW/](00_OVERVIEW/) — Tổng quan
+
+**[README.md](00_OVERVIEW/README.md)** — Giới thiệu module
+
+**[00_Tai_sao_chon_Nhiem_vu_DMST.md](00_OVERVIEW/00_Tai_sao_chon_Nhiem_vu_DMST.md)** — Thuyết phục team
+- So sánh Học thuật vs. Thực chiến
+- 7 đặc quyền pháp lý (thu nhập, miễn thuế, nghiệm thu, khoán chi, rào cản, IP, Spin-off)
+- Target: Tiến sĩ AI trẻ, postdoc, giảng viên
+
+**[00b_Conflict_of_Interest.md](00_OVERVIEW/00b_Conflict_of_Interest.md)** — Xung đột lợi ích
+- Tại sao Phòng ĐMST/Sở KHCN KHÔNG được làm Tổ chức chủ trì
+- Giải pháp: Trung tâm CNTT/Trung tâm ĐMST làm Tổ chức chủ trì
+
+---
+
 ### 📄 [01_DON_DANG_KY/](01_DON_DANG_KY/)
 
 **[`01_Don_dang_ky.md`](01_DON_DANG_KY/01_Don_dang_ky.md)** — Mẫu I.1 (4 sections)
@@ -97,10 +112,10 @@
 
 ## 📊 THỐNG KÊ
 
-**Modules:** 6  
-**Files:** 11  
-**Tổng sections:** 37 sections  
-**Trạng thái:** 0% (0/37 sections có nội dung)
+**Modules:** 7 (1 tổng quan + 6 hồ sơ chính thức)  
+**Files:** 13 (3 tổng quan + 11 hồ sơ chính thức - 1 README module)  
+**Tổng sections:** 37 sections (chỉ tính hồ sơ chính thức)  
+**Trạng thái:** 3% (1/37 sections có nội dung)
 
 ---
 
