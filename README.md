@@ -14,7 +14,7 @@
 
 ### 📄 [01_DON_DANG_KY/](01_DON_DANG_KY/)
 
-**`01_Don_dang_ky.md`** — Mẫu I.1 (4 sections)
+**[`01_Don_dang_ky.md`](01_DON_DANG_KY/01_Don_dang_ky.md)** — Mẫu I.1 (4 sections)
 - 1.1. Thông tin hành chính của tổ chức/cá nhân đăng ký
 - 1.2. Tên nhiệm vụ Đổi mới sáng tạo đề xuất
 - 1.3. Cam kết về tính chính xác, trung thực
@@ -24,14 +24,14 @@
 
 ### 📊 [02_THUYET_MINH_NHIEM_VU/](02_THUYET_MINH_NHIEM_VU/)
 
-**`01_Khung_thuyet_minh.md`** — Mẫu I.2/I.3/I.4/I.5 (4 sections)
+**[`01_Khung_thuyet_minh.md`](02_THUYET_MINH_NHIEM_VU/01_Khung_thuyet_minh.md)** — Mẫu I.2/I.3/I.4/I.5 (4 sections)
 - 1.1. Tên nhiệm vụ
 - 1.2. Thông tin tổ chức chủ trì và cá nhân chủ nhiệm
 - 1.3. Luận giải tính cấp thiết của nhiệm vụ
 - 1.4. Phân tích rủi ro và biện pháp quản lý
 
-**`02_Noi_dung_va_Phuong_an.md`** — (8 sections)
-- 1.1. Mục tiêu chung
+**[`02_Noi_dung_va_Phuong_an.md`](02_THUYET_MINH_NHIEM_VU/02_Noi_dung_va_Phuong_an.md)** — (8 sections) ✅ 1/8
+- 1.1. Mục tiêu chung ✅
 - 1.2. Mục tiêu cụ thể
 - 2.1. Nội dung thực hiện nhiệm vụ
 - 2.2. Phương pháp và phương án triển khai
@@ -40,18 +40,18 @@
 - 3.1. Dự kiến sản phẩm mới, dịch vụ mới, quy trình mới
 - 3.2. Yêu cầu chất lượng và chỉ tiêu đánh giá
 
-**`03_Ke_hoach_tai_chinh.md`** — (4 sections)
+**[`03_Ke_hoach_tai_chinh.md`](02_THUYET_MINH_NHIEM_VU/03_Ke_hoach_tai_chinh.md)** — (4 sections)
 - 1.1. Tổng dự toán kinh phí (Khoán đến sản phẩm / Khoán từng phần)
 - 1.2. Cơ cấu nguồn vốn (NSNN, Vốn đối ứng, Vốn huy động)
 - 1.3. Kế hoạch, tiến độ giải ngân
 - 1.4. Phương án và minh chứng huy động vốn đối ứng
 
-**`04_Nang_luc_thuc_hien.md`** — (3 sections)
+**[`04_Nang_luc_thuc_hien.md`](02_THUYET_MINH_NHIEM_VU/04_Nang_luc_thuc_hien.md)** — (3 sections)
 - 1.1. Năng lực, kinh nghiệm của tổ chức chủ trì
 - 1.2. Năng lực, kinh nghiệm của chủ nhiệm và thành viên
 - 1.3. Điều kiện về CSVC, trang thiết bị
 
-**`05_Hieu_qua_va_Tac_dong.md`** — (4 sections)
+**[`05_Hieu_qua_va_Tac_dong.md`](02_THUYET_MINH_NHIEM_VU/05_Hieu_qua_va_Tac_dong.md)** — (4 sections)
 - 1.1. Khả năng ứng dụng trực tiếp, nhân rộng và thương mại hóa
 - 1.2. Dự kiến hiệu quả kinh tế - xã hội
 - 1.3. Đóng góp vào nâng cao năng suất, chất lượng
@@ -61,17 +61,17 @@
 
 ### 🏢 [03_TU_CACH_PHAP_LY/](03_TU_CACH_PHAP_LY/)
 
-**`01_Quyet_dinh_thanh_lap.md`** — (1 section)
+**[`01_Quyet_dinh_thanh_lap.md`](03_TU_CACH_PHAP_LY/01_Quyet_dinh_thanh_lap.md)** — (1 section)
 - 1.1. Bản sao QĐ thành lập / Giấy CN đăng ký DN
 
-**`02_Dieu_le_hoat_dong.md`** — (1 section)
+**[`02_Dieu_le_hoat_dong.md`](03_TU_CACH_PHAP_LY/02_Dieu_le_hoat_dong.md)** — (1 section)
 - 1.1. Bản sao Điều lệ tổ chức đã được phê duyệt
 
 ---
 
 ### 📝 [04_VAN_BAN_CAM_KET/](04_VAN_BAN_CAM_KET/)
 
-**`01_Cam_ket_nguon_kinh_phi.md`** — Mẫu I.6 (3 sections)
+**[`01_Cam_ket_nguon_kinh_phi.md`](04_VAN_BAN_CAM_KET/01_Cam_ket_nguon_kinh_phi.md)** — Mẫu I.6 (3 sections)
 - 1.1. Thông tin đơn vị cam kết
 - 1.2. Nội dung cam kết chỉ tiếp nhận một nguồn kinh phí NSNN
 - 1.3. Xác nhận, chữ ký và đóng dấu
@@ -80,7 +80,7 @@
 
 ### 💼 [05_HO_SO_DU_AN_DAU_TU/](05_HO_SO_DU_AN_DAU_TU/)
 
-**`01_Ho_so_du_an_doi_moi_cong_nghe.md`** — (2 sections)
+**[`01_Ho_so_du_an_doi_moi_cong_nghe.md`](05_HO_SO_DU_AN_DAU_TU/01_Ho_so_du_an_doi_moi_cong_nghe.md)** — (2 sections)
 - 1.1. Quyết định phê duyệt dự án đầu tư
 - 1.2. Các tài liệu phê duyệt kèm theo
 
@@ -88,7 +88,7 @@
 
 ### 📦 [06_TAI_LIEU_KHAC/](06_TAI_LIEU_KHAC/)
 
-**`01_Van_ban_tai_lieu_bo_sung.md`** — (3 sections)
+**[`01_Van_ban_tai_lieu_bo_sung.md`](06_TAI_LIEU_KHAC/01_Van_ban_tai_lieu_bo_sung.md)** — (3 sections)
 - 1.1. Văn bản thỏa thuận hợp tác, liên danh (nếu có)
 - 1.2. Báo cáo phân tích giá trị, chứng minh công nghệ
 - 1.3. Các tài liệu khác theo yêu cầu cơ quan quản lý
