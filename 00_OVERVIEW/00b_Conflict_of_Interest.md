@@ -135,6 +135,108 @@
 
 ---
 
+## 🔄 TRUNG TÂM ĐMST CÓ THỂ LÀM GÌ?
+
+Nếu Trung tâm ĐMST&CĐS (thuộc Sở KHCN) không làm Tổ chức chủ trì, có thể đóng **4 vai trò khác**:
+
+### 1. Tổ chức phối hợp thực hiện nhiệm vụ
+
+**Cách thức:** Tổ chức chủ trì ký hợp đồng phụ với Trung tâm ĐMST
+
+**Công việc:**
+- Tổ chức các lớp đào tạo AI cho Nhóm B (Người dùng/Lãnh đạo)
+- Truyền thông, phổ biến kiến thức về dự án
+- Nhận khoán một phần việc cụ thể
+
+**Lợi ích:** Trung tâm được phân bổ một phần ngân sách hợp lệ
+
+---
+
+### 2. Đơn vị cung cấp hạ tầng và dịch vụ hỗ trợ
+
+**Cơ sở pháp lý:** Khoản 2 Điều 29 NĐ 268/2025 — Trung tâm ĐMST có nhiệm vụ tư vấn, đào tạo, bồi dưỡng, tập huấn, tư vấn kỹ thuật, cung cấp hạ tầng
+
+**Cách thức:** Tổ chức chủ trì "thuê/mua" dịch vụ từ Trung tâm ĐMST
+
+**Công việc:**
+- Cung cấp hội trường, phòng máy tính, hệ thống mạng
+- Cử chuyên gia làm giảng viên phụ
+- Tư vấn pháp lý sở hữu trí tuệ cho MCP Servers
+
+---
+
+### 3. Đơn vị tiếp nhận, quản lý và khai thác kết quả ⭐
+
+**Cơ sở pháp lý:** Khoản 4 Điều 32 NĐ 267/2025 — Cơ quan quản lý quyết định giao cho "đơn vị tiếp nhận kết quả" để theo dõi, quản lý, sử dụng và thương mại hóa
+
+**Cách thức:** Ghi rõ trong Thuyết minh: "Sản phẩm đầu ra (Hệ thống Remote MCP Servers, 03 bộ giáo trình AI) sau khi nghiệm thu sẽ được bàn giao cho Trung tâm ĐMST quản lý, vận hành và tiếp tục lan tỏa, ứng dụng"
+
+**Lợi ích:** 
+- Tính bền vững tuyệt đối (khắc phục điểm yếu Giai đoạn 1: làm xong không ai lưu giữ)
+- Trung tâm ĐMST trở thành đơn vị vận hành hệ thống MCP cho toàn tỉnh
+- Cơ hội thương mại hóa, cung cấp dịch vụ cho các tỉnh khác
+
+---
+
+### 4. Cơ quan điều hành Quỹ (Đại diện cấp vốn và giám sát)
+
+**Cơ sở pháp lý:** Khoản 1 Điều 16 NĐ 265/2025 — UBND cấp tỉnh/Sở giao cho một cơ quan, đơn vị thực hiện nhiệm vụ "Điều hành Quỹ phát triển KHCN và ĐMST"
+
+**Cách thức:** Trung tâm ĐMST đóng vai trò Cơ quan điều hành Quỹ
+
+**Công việc:**
+- Ký hợp đồng tài trợ với Tổ chức chủ trì
+- Thực hiện giải ngân, thanh quyết toán
+- Giám sát tiến độ
+
+**Lợi ích:** Thể hiện quyền lực quản lý dòng tiền mà không vi phạm "vừa đá bóng vừa thổi còi" (vì đứng ở vị thế nhà tài trợ/đặt hàng)
+
+---
+
+## 🎯 SƠ ĐỒ LÝ TƯỞNG NHẤT
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  SỞ KHCN VĨNH LONG                                          │
+│  - Ra quyết định phê duyệt dự án                            │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│  TRUNG TÂM ĐMST (Cơ quan điều hành Quỹ)                    │
+│  - Ký hợp đồng tài trợ với Tổ chức chủ trì                 │
+│  - Giải ngân, thanh quyết toán, giám sát                   │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     │ Hợp đồng tài trợ
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│  TRUNG TÂM CNTT (Tổ chức chủ trì)                          │
+│  - Chịu trách nhiệm pháp lý hành chính                      │
+│  - Quản lý dự án, báo cáo tiến độ                           │
+└────────────────────┬────────────────────────────────────────┘
+                     │
+                     │ Hợp đồng thuê chuyên gia
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│  KIẾN TRÚC SƯ TRƯỞNG (Chuyên gia)                           │
+│  - Nắm toàn quyền thiết kế hệ thống, chỉ đạo kỹ thuật      │
+│  - Điều hành Nhóm Dev (A) và Giáo viên (C)                 │
+└─────────────────────────────────────────────────────────────┘
+                     │
+                     │ Bàn giao sản phẩm sau nghiệm thu
+                     ▼
+┌─────────────────────────────────────────────────────────────┐
+│  TRUNG TÂM ĐMST (Đơn vị tiếp nhận kết quả) ⭐              │
+│  - Quản lý, vận hành hệ thống MCP cho toàn tỉnh            │
+│  - Thương mại hóa, cung cấp dịch vụ cho các tỉnh khác      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**→ Trung tâm ĐMST đóng 2 vai trò: (1) Cơ quan điều hành Quỹ (đầu vào), (2) Đơn vị tiếp nhận kết quả (đầu ra)**
+
+---
+
 ## 📚 TÀI LIỆU THAM KHẢO
 
 **Nghị định:**
